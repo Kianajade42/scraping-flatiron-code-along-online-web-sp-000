@@ -32,3 +32,4 @@ def get_courses
   end
 
 end
+Scraper.new.print_courses
